@@ -103,6 +103,8 @@ Emotion detection systems must be used responsibly, considering the following:
 - **Bias in Emotion Detection**: The FER-2013 dataset may not be fully representative of all demographics. The system may exhibit bias in emotion classification for certain age groups, genders, or ethnicities. It is crucial to mitigate such biases by using more diverse datasets and fair training practices.
 - **Misuse Potential**: Emotion detection can be misused in surveillance or for manipulating users emotionally. Ethical guidelines should be followed to ensure the technology is used responsibly.
 
+![Emotion Detection Example](https://github.com/priyanka7411/emotion-detection-streamlit/blob/main/f_p_2.png)
+
 ## Future Work
 - **Real-Time Video Emotion Detection**: Extend the system to analyze live video feeds for emotion detection.
 - **Transfer Learning**: Use pre-trained models like ResNet or VGG for better feature extraction and accuracy.
